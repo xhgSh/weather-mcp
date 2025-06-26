@@ -81,6 +81,3 @@ java -jar target/weather-mcp-0.0.1-SNAPSHOT.jar
 
 欢迎贡献代码或提出问题！如果你有任何建议或发现bug，请提交Issue或Pull Request。
 
-## 许可证
-
-该项目遵循Apache License 2.0。详情请参阅[LICENSE](LICENSE)文件。
