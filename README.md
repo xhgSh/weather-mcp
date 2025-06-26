@@ -1,5 +1,3 @@
-理解你的问题: doing
-收集相关的信息: doing
 # weather-mcp
 
 这是一个基于Spring AI实现的MCP (Model Context Protocol) 服务器项目，主要功能是通过爬取中国天气网获取实时天气数据。该项目可以作为AI模型和天气数据之间的桥梁，让AI模型能够查询中国的天气信息。
